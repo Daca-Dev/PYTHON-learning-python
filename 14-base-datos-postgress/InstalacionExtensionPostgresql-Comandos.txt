@@ -1,0 +1,8 @@
+#comando para actualizar pip
+python -m pip install --upgrade pip
+
+#comando para instalar modulo de postgresql
+pip install psycopg2
+
+#comando para instalar modulo de mysql
+pip install mysql-connector
